@@ -1,4 +1,4 @@
-//Lista con datos persoanles
+//Lista con datos personales
 
 const lista_datos = {
 
