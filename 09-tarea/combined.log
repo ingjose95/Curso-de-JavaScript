@@ -1,0 +1,4 @@
+{"level":"info","message":"Se está ejecutando correctamente","service":"user-service"}
+{"level":"info","message":"El valor de e es: Error: El valor debe ser tipo number para poder elevarlo al cuadrado.","service":"user-service"}
+{"level":"error","message":"ERROR!","service":"user-service"}
+{"level":"info","message":"Esta linea siempre se ejecuta.","service":"user-service"}
