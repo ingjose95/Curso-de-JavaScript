@@ -1,0 +1,15 @@
+{
+  "name": "14-tarea",
+  "version": "1.0.0",
+  "description": "Crea un nuevo proyecto de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
